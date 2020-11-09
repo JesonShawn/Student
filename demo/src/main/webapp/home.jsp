@@ -1,5 +1,5 @@
 <html>
-<head><title>First JSP</title></head>
+<head><title>Onboarding</title></head>
 <body>
 <h3>Welcome to student portal</h3><br>
 
